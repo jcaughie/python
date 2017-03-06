@@ -1,9 +1,9 @@
 t = 9.0
 tot = 0;
-for i in range(1000):
+for i in range(100):
     for j in range(i):
         tot += 1;
-        print(j);
+        ##print(j);
 print(tot)
 
 ##x = 3
